@@ -9,7 +9,7 @@ This repository contains code for fine-tuning a Large Language Model  (DestilBER
 
 The IMDB dataset is used for training the sentiment analysis model. It is a popular dataset for binary sentiment classification, where the goal is to predict whether a review is positive or negative based on its text.
 
-- Dataset Link: [IMDB Sentiment Analysis Dataset]([(https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)]
+- Dataset Link: [IMDB Sentiment Analysis Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
   
 ## Requirements
 
